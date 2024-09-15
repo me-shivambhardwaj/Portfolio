@@ -9,7 +9,7 @@ function About() {
       <div>
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
-          Hello, I'm Akhil, a passionate Web developer with a keen eye for MERN
+          Hello, I'm Shivam, a passionate Web developer with a keen eye for MERN
           Stack . With a background in IT, I strive to create impactful and
           visually stunning Software solutions that leave a lasting impression.
         </p>
@@ -18,9 +18,9 @@ function About() {
           Education & Training
         </h1>
         <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
-          [Institution], [Year] [Relevant Course], [Platform/Institution],
-          [Year]
+          [B.Tech/CSE], [BRCM College of ENGG & Tech], [2021-25],
+          [12th/non med],[BITS International School], [2020-21],
+          [10th],[K.M Public School], [2018-19],
         </span>
         <br />
         <br />
@@ -28,8 +28,8 @@ function About() {
           Skills & Expertise
         </h1>
         <span>
-          Proficient in [Programming Languages] Experienced with [Software
-          Tools/Technologies] Strong grasp of [Design Principles/Concepts]
+          Proficient in [JAVA] Experienced with [Spring/Springboot
+          ] Strong grasp of [React.js/NodeJS],
           Excellent problem-solving skills Effective communicator and
           collaborator
         </span>
@@ -39,11 +39,9 @@ function About() {
           Professional Experience
         </h1>
         <span>
-          [Job Title], [Company/Organization], [Dates] [Brief description of
-          responsibilities and achievements] [Job Title],
-          [Company/Organization], [Dates] [Brief description of responsibilities
-          and achievements] [Freelance/Contract Work], [Client/Organization],
-          [Dates] [Brief description of projects and contributions]
+          [Java projects], [ATM Interface ], [Java Backend]  [2023-JULY],
+          [Frontend Projects], [E-Commerce Clone, GYM Website Clone, Spotify Clone] [2023-Aug] 
+          [Fullstack Projects], [Makers Market Place, Personal PortFolio, Wheather APP, Chat APP],[2024-]
         </span>
         <br />
         <br />
@@ -51,8 +49,8 @@ function About() {
           Achievements & Awards
         </h1>
         <span>
-          [Award/Recognition], [Organization/Institution], [Year] [Achievement],
-          [Organization/Platform], [Year]
+          [Certified Java Developer], [Octanet.in], [2023-June] 
+          [Certified Springboot Developer],[Codecademy], [2024-june]
         </span>
         <br />
         <br />
